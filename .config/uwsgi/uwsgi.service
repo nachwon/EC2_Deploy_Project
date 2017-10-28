@@ -1,5 +1,5 @@
 [Unit]
-Description=uWSGI Emperor service
+Description=uWSGI service
 After=syslog.target
 
 [Service]
